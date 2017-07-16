@@ -1,0 +1,6 @@
+#define READ_FILE "/Users/chenzhongzheng/Desktop/DisplayProductID-2900"
+#define WRITE_FILE "/Users/chenzhongzheng/Desktop/write.plist"
+#define TEST_IMAGE "/Users/chenzhongzheng/QtProject/helloDpi/testImage.png"
+#define SYSTEM_CONFIG_FILE_PATH "/System/Library/Displays/Contents/Resources/Overrides"
+//#define SYSTEM_CONFIG_FILE_PATH "/Users/chenzhongzheng/Desktop"
+#define SYSTEM_CONFIG_FILE_PATH_10_10_AND_FORMER "/System/Library/Displays/Overrides"
